@@ -1,7 +1,29 @@
-* {
-    font-family: 'Sonsie One', cursive;
-}
 
 body{
     background: url(https://static.vecteezy.com/system/resources/previews/000/109/819/non_2x/beautiful-gold-sparkle-background-vector.jpg);
+    background-position: center;
 }
+
+.container{
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    font-family: 'Sonsie One', cursive;
+    text-align: center;
+}
+
+#buttonsView {
+    display: inline;
+}
+
+.gifs {
+    align-content: center;
+    display: inline-block;
+}
+
+#gifsView {
+    display: inline-block;
+    align-content: center;
+}
+
